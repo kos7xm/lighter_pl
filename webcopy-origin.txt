@@ -1,0 +1,192 @@
+Uri: https://boxne.store/?utm_source=TH&utm_medium=1&utm_campaign=1&utm_content=1&fbclid=IwAR1QU2wG3QclVe4Z_pS51y8ABbn7ibrwI17HZ-0h5ECuKxwnL3jPE_stPfI_aem_AdFUItbC8sdt4OREyDub78YsLCID-6-ZRqgP4SDM_hS6GTMOJD2uEIG3D4u76IJdtj2xC-yiP5XVtpe6HdlEni2HN1rRwvPor6xR-0qOpght4Q
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\index.htm
+Content Type: text/html
+
+Uri: https://boxne.store/favicon.ico
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\css.css
+Content Type: text/css
+
+Uri: https://boxne.store/css/settings.css
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\css\settings.css
+Content Type: text/css
+
+Uri: https://boxne.store/css/timer.css
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\css\timer.css
+Content Type: text/css
+
+Uri: https://boxne.store/css/slick.css
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\css\slick.css
+Content Type: text/css
+
+Uri: https://boxne.store/css/style.css
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\css\style.css
+Content Type: text/css
+
+Uri: https://boxne.store/politics.html
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\politics.html
+Content Type: text/html
+
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://boxne.store/img/1.gif
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\1.gif
+Content Type: image/gif
+
+Uri: https://boxne.store/img/d1.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\d1.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/d2.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\d2.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/d3.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\d3.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/d4.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\d4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\ajax\libs\html5shiv\3.7.3\html5shiv.min.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/js/count.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\js\count.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/js/slick.min.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/js/main.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\js\main.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/assets_pages/land/js/youtube/previewYouTube.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\assets_pages\land\js\youtube\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/js/jquery.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/js/scripts.js
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://boxne.store/font/Bebas Neue Regular Regular.woff2
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Regular Regular.woff2
+Content Type: font/woff2
+
+Uri: https://boxne.store/font/Bebas Neue Regular Regular.woff
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Regular Regular.woff
+Content Type: font/woff
+
+Uri: https://boxne.store/font/Bebas Neue Regular Regular.otf
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Regular Regular.otf
+Content Type: application/octet-stream
+
+Uri: https://boxne.store/font/Bebas Neue Bold Regular.woff2
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Bold Regular.woff2
+Content Type: font/woff2
+
+Uri: https://boxne.store/font/Bebas Neue Bold Regular.woff
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Bold Regular.woff
+Content Type: font/woff
+
+Uri: https://boxne.store/font/Bebas Neue Bold Regular.otf
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\font\Bebas Neue Bold Regular.otf
+Content Type: application/octet-stream
+
+Uri: https://boxne.store/img/timer.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\timer.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/arrow.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\arrow.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/b1.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/gift.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\gift.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/icon.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\icon.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/shadow.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\shadow.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/b5.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b5.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/job.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\job.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/b6.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b6.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/b3.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b3.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/ship.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\ship.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/rev.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\rev.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/ava.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\ava.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/stars.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\stars.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/cap.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\cap.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/check.png
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\check.png
+Content Type: image/png
+
+Uri: https://boxne.store/img/bf.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\bf.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/b1m.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b1m.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/b5m.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b5m.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/b3m.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b3m.jpg
+Content Type: image/jpeg
+
+Uri: https://boxne.store/img/b1s.jpg
+File Name: D:\MonsterLeads\2021\03\11\Новая папка\boxne.store\img\b1s.jpg
+Content Type: image/jpeg
+
