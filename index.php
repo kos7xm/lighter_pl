@@ -260,7 +260,7 @@ DO 40 RAZY MOCNIEJSZY NIŻ ZWYKŁA LATARNIA
                     <b class="price_currency"></b></p>
                 </div>
             </div>
-            <form id="buy" class="main-order-form m1-form" action="sendleads.php?" method="post" onsubmit="return cartTelCheck('phone2', true, this, event); ">
+            <form id="buy" class="main-order-form m1-form" action="sendleads.php?<?php echo "subid1=$subid1&subid2=$subid2&subid3=$subid3&subid4=$subid4" ?>" method="post" onsubmit="return cartTelCheck('phone2', true, this, event); ">
                <input class="field" type="text" name="client" placeholder="Imię Nazwisko" required="">
             <input class="field mask" type="text" id="phone2" name="tel" placeholder="Numer telefonu" required="">
                 <button type="submit" class="button-m">ZAMÓW ZE ZNIŻKĄ

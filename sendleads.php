@@ -82,11 +82,12 @@
             if(trim($adress) != '') {
                 $data['adress'] = $adress;
             }
+
             $subid4 = $_GET['subid4'];
             $subid = '';
             for ($i=1; $i<=5; $i++) {
-                if(isset($_REQUEST["subid$i"]) && trim($_REQUEST["subid$i"]) != '') {
-                    $subid .= $_REQUEST["subid$i"].':';
+                if(isset($_GET["subid$i"]) && trim($_GET["subid$i"]) != '') {
+                    $subid .= $_GET["subid$i"].':';
                 }
             }
             $subid = rtrim($subid, ':');
