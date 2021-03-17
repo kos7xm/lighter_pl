@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿<?php
+$subid1 = $_GET['camp'];
+$subid2 = $_GET['adset'];
+$subid3 = $_GET['ban'];
+$subid4 = $_GET['s4'];
+?>
+<!DOCTYPE html>
 <html lang="pl">
 <head>
 
@@ -57,7 +63,7 @@
                     <b class="price_currency"></b></p>
                 </div>
             </div>
-            <form class="main-order-form m1-form" action="sendleads.php?" method="post" onsubmit="return cartTelCheck('phone', true, this, event); ">
+            <form class="main-order-form m1-form" action="sendleads.php?<?php echo "subid1=$subid1&subid2=$subid2&subid3=$subid3&subid4=$subid4" ?>" method="post" onsubmit="return cartTelCheck('phone', true, this, event); ">
                  <input class="field" type="text" name="client" placeholder="Imię Nazwisko" required="">
             <input class="field mask" type="text" id="phone" name="tel" placeholder="Numer telefonu" required="">
                 <button type="submit" class="button-m">ZAMÓW ZE ZNIŻKĄ

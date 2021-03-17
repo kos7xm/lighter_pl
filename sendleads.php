@@ -81,7 +81,8 @@
             $adress = trim($adr1." ".$adr2." ".$adr3);
             if(trim($adress) != '') {
                 $data['adress'] = $adress;
-            }                        
+            }
+            $subid4 = $_GET['subid4'];
             $subid = '';
             for ($i=1; $i<=5; $i++) {
                 if(isset($_REQUEST["subid$i"]) && trim($_REQUEST["subid$i"]) != '') {
@@ -110,7 +111,7 @@
 			$logInfo .= print_r($answer, true)."\r\n";
 			ToLog($logInfo);            
             if($answer['status'] == 'ok'){
-            Header('Location: success.html'); die();
+            Header("Location: success.php?pixel=$subid4"); die();
             }else{
                 print_r ($answer);
                die();
